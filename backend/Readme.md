@@ -2,6 +2,7 @@
 
 This is a video series on backend with javascript
 - [Model link](https://app.eraser.io/workspace/YtPqZ1VogxGy1jzIDkzj?origin=share)
+- This project mentor is Mr Hitesh Choudhary and Chai aur code
 ---
 # Summary of this project
 
@@ -12,5 +13,5 @@ Project uses all standard practices like JWT, bcrypt, access tokens, refresh Tok
 
 
 ---
-- This project mentor is Mr Hitesh Choudhary and Chai aur code
+
 
