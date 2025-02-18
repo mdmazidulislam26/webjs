@@ -2,7 +2,7 @@
 
 This is a video series on backend with javascript
 - [Model link](https://app.eraser.io/workspace/YtPqZ1VogxGy1jzIDkzj?origin=share)
-- This project mentor is Mr Hitesh Choudhary and Chai aur code
+- This project mentor is Mr [Hitesh Choudhary](https://github.com/hiteshchoudhary) and [Chai aur code]https://www.youtube.com/@chaiaurcode
 ---
 # Summary of this project
 
